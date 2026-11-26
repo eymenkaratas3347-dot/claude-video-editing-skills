@@ -1,3 +1,4 @@
+Your project is excellent,
 # Video editing skills for Claude (Premiere Pro)
 
 🇬🇪 [ქართულად](README.ka.md)
